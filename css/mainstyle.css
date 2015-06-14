@@ -1,0 +1,77 @@
+body,td,th {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #333333;
+	background-color: #F3F9FE;
+	text-indent: 0px;
+	letter-spacing: normal;
+	word-spacing: 0.4em;
+	clear: none;
+	float: none;
+	margin-left: 5px;
+}
+body {
+	background-color: #FFFFFF;
+	margin-left: 5px;
+}
+a:link {
+	color: #000099;
+}
+leftnav {
+	background-color: #CCCCCC;
+}
+
+a:visited {
+	color: #990000;
+}
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+h6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #003333;
+	padding-bottom: 6px;
+}
+#leftnav {
+	background-color: #FFD9B3;
+}
+
+#top {
+	background-color: #FFFFFF;
+}
+poem {
+	word-spacing: 0.6em;
+	line-height: 1.5px;
+	font-size: 18px;
+}
+img {
+	border-right-width: thick;
+	border-top-color: #F2F2ED;
+	border-right-color: #F2F2ED;
+	border-bottom-color: #F2F2ED;
+	border-left-color: #F2F2ED;
+}
+.poetry {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+}
+.quote {
+	font-family: "Brush Script MT", Arial;
+	font-size: 21px;
+	color: #333333;
+}
+.bluequote {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #000033;
+	font-style: italic;
+	background-position: center;
+	text-align: center;
+}
+li {
+	padding-bottom: 1.0em;
+	text-align: left;
+}

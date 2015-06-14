@@ -1,0 +1,350 @@
+body 
+	{
+	color: #3C3D32;
+	font-size: 14px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	line-height: 22px;
+	background-color: #FFFFFF;
+	text-align: left;
+	margin-top: 0;
+	margin-right: 30px;
+	margin-bottom: 0;
+	margin-left: 20px;
+	}
+
+#header 
+	{
+	background-color: #FFFFFF;
+	text-align: left;
+	visibility: visible;
+	position: relative;
+	height: 90px;
+	color: #666666;
+	margin-top: 25px;
+	}
+#header p {
+	margin-left:40px;
+	font-size: 13px;
+}
+
+
+#navbar 
+	{	
+	color: white;
+	font-size: 10px;
+	line-height: 16px;
+	background-color: #FFFFFF;
+	text-align: center;
+	letter-spacing: 0.4em;
+	height: 30px
+	}
+
+#navbar a {
+	color: #FFFFFF;
+}
+
+#navlist
+{
+	padding-bottom: 19px;
+	border-bottom-width: thin;
+	border-bottom-style: none;
+	border-bottom-color: #003399;
+	background-color: #FFFFFF;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 20px;
+}
+
+#navlist ul, #navlist li
+{
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #FFFFFF;
+	background-image: url(http://www.srichinmoybio.co.uk/images/site/top-right-blue.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#navlist a:link, #navlist a:visited
+{
+	color: #000066;
+	float: left;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 16px;
+	margin-right: 15px;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 15px;
+	padding-bottom: 3px;
+	padding-left: 15px;
+	background-color: #DFF1FD;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	letter-spacing: 0.2em;
+	background-image: url(http://www.srichinmoybio.co.uk/images/site/top_left.jpg);
+	background-repeat: no-repeat;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #ccc;
+	border-right-color: #ccc;
+	border-bottom-color: #ccc;
+	border-left-color: #ccc;
+}
+
+
+
+#navlist a:hover {
+	color: #000033;
+	background-color: #CCCCCC;
+	background-image: url(http://www.srichinmoybio.co.uk/images/site/top_left-grey.jpg);
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
+#navlist ul a:hover { color: #009900!important; }
+
+#logo 
+	{
+	height: 75px;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 5%;
+	}
+	
+
+
+h6 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	margin: 40px 0 10px 0;
+}
+h4 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	color: #0033CC;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+	
+}
+h1 {
+	color:#2058B7;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-right: 0;
+	margin-bottom: 2em;
+	margin-left: 0;
+	margin-top: 0.5em;
+	text-align: center;
+	font-size: 1.8em;
+	}
+ h5, h2, h3 {
+	color:#003F7D;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	margin-right: 0;
+	margin-bottom: 0.5em;
+	margin-left: 0;
+	margin-top: 0.1px;
+}
+
+h2 {
+	text-align: center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #003399;
+	margin-bottom: 25px;
+	font-size: 1.7em;
+}
+
+#poem {
+font-family: Geneva, Arial, Helvetica, sans-serif;
+color: #333333;
+text-align: center;
+word-spacing: 0.2em;
+margin-top: 7px;
+margin-bottom: 7px;
+}
+
+#poem h3 {
+color: #0154A7;
+font-size: 14px;
+line-height: 19px;
+margin: 20px 0 20px 0;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+.number {
+
+text-align: right;
+word-spacing: 0.2em;
+}
+
+.subnav
+{
+	height: 200px;
+	margin-right:15px;
+	padding-top: 10%;
+}
+
+#poem p {
+font-size: 13px;
+line-height: 19px;
+margin: 0 0 20px 0; 
+}
+
+#poem h6 {
+margin: 20px 0; 
+} 
+
+
+a 
+	{
+	color: #000099;
+	text-decoration: none;
+	}
+
+a:hover 
+	{
+	color: #CC0000;
+	text-decoration: none;
+	}
+
+.menuitem 
+	{
+	color: #006633;
+	margin-top: 50px;
+	margin-left: 20px;
+	border-top: 0 none;
+	border-right: 0 none;
+	border-bottom: 1px dotted #758642;
+	border-left: 0 none;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	}
+
+.menuitem a 
+	{
+	
+	text-decoration: none;
+	
+	font-weight: bold;
+	color: #006633;
+	}
+
+.menuitem a:hover 
+	{
+	color: #0066CC;
+	text-decoration: none;
+	}
+
+.left 
+	{
+	text-align: right;
+	width: 15%;
+	float: left;
+	margin-top: 20px;
+	}
+
+.mid 
+	{
+	padding-left: 36px;
+	width: 50%;
+	float: left;
+	padding-right: 10px;
+	}
+
+.right 
+	{
+	font-size: 12px;
+	font-style: normal;
+	line-height: 20px;
+	padding-left: 4%;
+	width: 15%;
+	float: left;
+	padding-top: 10px;
+	margin: 30px;
+	}
+	
+.poem {
+font-family: Geneva, Arial, Helvetica, sans-serif;
+color: #333333;
+text-align: center;
+word-spacing: 0.2em;
+margin-top: 7px;
+margin-bottom: 7px;
+}
+
+.centre-div {
+	width: 100%;
+	margin-right: 0px;
+	margin-left: auto;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#footer 
+	{
+	color: #333333;
+	font-size: 10px;
+	line-height: 16px;
+	background-color: #FFFFFF;
+	text-align: center;
+	height: 16px;
+	clear: left;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	padding-top: 20px;
+	}
+#footer a {
+	color: #003366;
+	border-top-color: #006600;
+	border-right-color: #006600;
+	border-bottom-color: #006600;
+	border-left-color: #006600;
+	text-decoration: underline;
+}
+.left .subnav a {
+	text-decoration: underline;
+}
+.left .subnav h6 {
+	font-size: 1em;
+	text-decoration: none;
+	font-weight: bold;
+	color: #003366;
+	margin: 5px;
+}
+.float-left {
+	margin: 5px;
+	float: left;
+	clear: both;
+}
+.quote {
+font-family: Helvetica, Verdana, Arial, sans-serif;
+	margin-left: 20px;
+		font-size: 15px;
+	
+}
+
+.frontpage h4 {
+{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	color: #0033CC;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+	}
